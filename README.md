@@ -1,1 +1,1 @@
-# MathCATDemo
+# MathCAT
